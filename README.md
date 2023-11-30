@@ -16,22 +16,22 @@ There is high foot traffic in pizza shops in most crowded cities, and there are 
 
 ### Sample Screenshot 01
 
-![Screenshot 01](screenshots/main_menu.png)
+![Screenshot 01](screenshots/01.png)
 *Screenshot 01*
 
 ### Sample Screenshot 02
 
-![Screenshot 02](screenshots/manage_menu.png)
+![Screenshot 02](screenshots/02.png)
 *Screenshot 02*
 
 ### Sample Screenshot 03
 
-![Screenshot 03](screenshots/manage_orders.png)
+![Screenshot 03](screenshots/03.png)
 *Screenshot 03*
 
 ### Sample Screenshot 04
 
-![Screenshot 04](screenshots/emergency_situation.png)
+![Screenshot 04](screenshots/04.png)
 *Screenshot 04*
 
 ## Getting Started
@@ -45,5 +45,5 @@ There is high foot traffic in pizza shops in most crowded cities, and there are 
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/pizza-qbd-system.git
+   git clone https://github.com/sweerasingha/CONSOLE-APP-PIZZA-QBD-SYSTEM
    cd pizza-qbd-system
